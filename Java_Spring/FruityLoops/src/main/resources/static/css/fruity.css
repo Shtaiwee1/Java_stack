@@ -1,0 +1,16 @@
+@charset "ISO-8859-1";
+
+*{
+	padding:0;margin:0
+}
+
+h1{
+	color:#ef8080
+	};
+	
+.container {width:400px;
+	border:5px solid #ffb6c2
+	};
+	
+
+	
