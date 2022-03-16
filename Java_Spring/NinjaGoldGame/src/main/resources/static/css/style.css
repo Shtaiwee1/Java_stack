@@ -1,0 +1,9 @@
+@charset "ISO-8859-1";
+
+.activities{
+	border:2px solid black;
+	overflow:scroll;
+	width:1399px;
+	height:200px;
+	margin-left:100px
+	}
