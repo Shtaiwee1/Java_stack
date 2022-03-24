@@ -1,0 +1,44 @@
+@charset "ISO-8859-1";
+
+#wrapper {
+            padding-left: 70px;
+            background-color: lightgrey;
+        }
+        h1 {
+            text-align: center;
+            padding-top: 10px;
+            padding-right: 50px;
+        }
+        #register {
+            width: 500px;
+            margin: 20px;
+            padding: 22px;
+            background-color: #87a8e7;
+            border-radius: 10px;
+            display: inline-block;
+            vertical-align: top;
+        }
+        #login {
+        margin-left:100px;
+            width: 500px;
+            margin: 20px;
+            padding: 22px;
+            background-color: #aac0eb;
+            border-radius: 10px;
+            display: inline-block;
+            vertical-align: top;
+        }
+        input[type = text] {
+            padding: 3px 5px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            width: 250px;
+            box-sizing: border-box;
+        }
+        input[type = password] {
+            padding: 3px 5px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            width: 250px;
+            box-sizing: border-box;
+        }
